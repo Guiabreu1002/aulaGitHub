@@ -1,4 +1,4 @@
-#Sistema Bancário
+# Sistema Bancário
 Este é um sistema bancário básico desenvolvido em Java, que permite gerenciar clientes, contas, cartões e realizar transações bancárias. O sistema suporta a criação de contas correntes e poupanças, bem como a gestão de cartões associados a essas contas.
 
 Funcionalidades
